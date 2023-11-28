@@ -1,3 +1,11 @@
+/**
+ *
+ * @author ACER
+ * NAMA     : ALIVIA FATAH YUMNA
+ * KELAS    : PBO RegPagi
+ * NIM      : 22166016
+ * DESKRIPSI PROGRAM : Program ini berisi program untuk menampilkan implementasi coding "handphone"
+ */
 class Handphone {
     protected String manufacture;
     protected String operatingSystem;
